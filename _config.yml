@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://pbs.twimg.com/profile_images/1533695665884172293/BJJmc55r_400x400.jpg
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1533695665884172293/BJJmc55r_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
