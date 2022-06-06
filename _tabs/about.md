@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This site is a convenient place for me to store Coding and Config notes and tips.
+
+
+```c
+void main (int argc, char* argv[])
+{
+    printf("Hello World!");
+}
+```
