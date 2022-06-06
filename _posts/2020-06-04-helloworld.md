@@ -16,7 +16,7 @@ The need to store my Coding & Config notes and tips in a conveniet location, and
 
 - [Tim's Video](https://youtube.com/watch?v=F8iOU1ci19Q)
 
-<br/><br/>
+
 **Commands**
 
 ```bash
