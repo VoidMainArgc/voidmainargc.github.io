@@ -6,7 +6,7 @@ tags: [notes bicep azure]
 ---
 
 
-# Bicep Notes222333
+# Bicep Notes
 
 **Links**
 
