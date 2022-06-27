@@ -1,6 +1,6 @@
 ---
 title: VSCode Settings
-date: 2000-01-01 12:00:00 -500
+date: 2022-06-05 12:00:00 -500
 categories: [vscode]
 tags: [vscode]
 ---
